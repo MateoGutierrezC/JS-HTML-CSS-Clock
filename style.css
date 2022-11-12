@@ -133,7 +133,7 @@ content:'';
 position: absolute;
 width:4px;
 height: 90px;
-background: #000;
+background: #fff;
 z-index: 12;
 border-radius: 6px;
 }
