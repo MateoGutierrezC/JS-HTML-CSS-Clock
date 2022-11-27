@@ -114,7 +114,6 @@ height: 230px;
 .hr,.mn,.sc{
 display: flex;
 justify-content: center;
-position: absolute;
 border-radius: 50%;
 }
 
@@ -140,7 +139,7 @@ border-radius: 6px;
 .sc::before{
 content: '';
 position: absolute;
-width: 1px;
+width: 2px;
 height: 150px;
 background: #fff;
 z-index: 12;
